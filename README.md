@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="http://uploads.quarkly.io/readme/gatsby/readme-quarkly-and-gatsby.png" width="480px" alt="Gatsby project from Quarkly">
-</p>
-
 <h1 align="center">Siarnaq</h1>
 
 <h4 align="center">This Gatsby project was created in <a href="https://quarkly.io/" target="_blank">Quarkly.io</a> – design tool for creating websites and web apps</h4>
@@ -61,19 +57,4 @@ $ npm run build
 - Static Site Generator
 - Server-side Rendering
 
-# 💡 About [Quarkly](https://quarkly.io)
-<p>
-A unique tool for webmasters, designers and developers.
-<br>
-Here you can create websites and web apps quickly, conveniently and beautifully.
-</p>
-
-- [Documentation](https://quarkly.io/docs)
-- [Features](https://quarkly.io/features)
-- [Updates](https://quarkly.io/updates)
-- [GitHub](https://github.com/quarkly)
-- [Twitter](https://twitter.com/quarklyapp)
-- [Community](https://community.quarkly.io/)
-
-# 📝 License
-Licensed under the [MIT License](./LICENSE).
+Demo: https://wonderperfection.netlify.app
